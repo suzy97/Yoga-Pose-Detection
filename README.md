@@ -2,9 +2,11 @@
 ###### Yoga Pose Detection
 <br>
 
-Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단
+Pose Detction을 통해 요가 자세의 정확도를 평가하여 올바른 자세인지 판단하는 프로젝트
 
 <br>
+
+발표 자료 : https://docs.google.com/presentation/d/1cGlR7aeO4SCdJ1g3l-wqmG28oBWkfQg-/edit?usp=sharing&ouid=107908450605292545826&rtpof=true&sd=true
 
 ## __📌 프로젝트 진행 순서 📌__
 ### 1. Image Crawling
